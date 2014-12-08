@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CChat</string>
+
+    <string name="title_add">Dodaj</string>
+    <string name="title_cchat">CChat</string>
+
+    <string name="action_settings">Nastavitve</string>
+    <string name="action_add">Dodaj</string>
+    <string name="action_remove">Zbriši</string>
+
+    <string name="no_connection">Nisem povezaven.</string>
+
+    <string name="invite">Povabilo</string>
+    <string name="invite_msg">%s želi biti vaš prijatelj. Sprejmete?</string>
+
+    <string name="ok">Vredu</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+
+    <string name="warning">Opozorilo</string>
+    <string name="error">Napaka</string>
+    <string name="error_server_connection">Povezava s strežnikom \"%s\" ni uspela.</string>
+    <string name="error_server_communication">Napaka v komunikaciji s strežnikom.</string>
+    <string name="action_send">Pošlji</string>
+    <string name="button_choose">Brskaj ...</string>
+    <string name="button_reset">Ponastavi</string>
+    <string name="cancel">Prekliči</string>
+    <string name="enter_password_user_certificate">Vnesite geslo za uporabnikov certifikat:</string>
+    <string name="error_ssl_init">Napaka pri SSL inicializaciji.</string>
+    <string name="error_untrusted_peer">Poskus povezave z uporabnikom, ki ni zaupanja vreden.</string>
+    <string name="hello_world"></string>
+    <string name="password">Geslo</string>
+    <string name="port">Port:</string>
+    <string name="select_server_certificate">Izberite strežnikov certifikat (*.crt)</string>
+    <string name="select_trusted_certificate">Izberite certifikat zaupanja (*.crt)</string>
+    <string name="select_user_certificate">Izberite uporabnikov certifikat (*.p12)</string>
+    <string name="server">Strežnik:</string>
+    <string name="server_certificate">Strežnikov certifikat:</string>
+    <string name="title_activity_settings">Nastavitve</string>
+    <string name="title_activity_user_chat">Not used.</string>
+    <string name="trusted_certificate">Certifikat zaupanja:</string>
+    <string name="user_certificate">Uporabnikov certifikat:</string>
+    <string name="user_offline">Uporabnik je zapustil klepet.</string>
+    <string name="error_server_certificate">Nisem uspel naložiti strežnikovega certifikata: \"%s\"</string>
+    <string name="error_trust_certificate">Nisem uspel naložiti certifikata zaupanja: \"%s\"</string>
+    <string name="error_user_certificate">Nisem mogel naložiti uporabnikovega certifikata: \"%s\"</string>
+    <string name="message_no_users">Nimate nobenega prijatelja. Kliknite ikono levo zgoraj za dodajanje.</string>
+    <string name="action_logout">Odjava</string>
+    <string name="connect">Poveži</string>
+</resources>

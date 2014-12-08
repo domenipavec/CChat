@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CChat</string>
+    <string name="title_add">Add</string>
+    <string name="title_cchat">CChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="action_remove">Remove</string>
+    <string name="no_connection">Not connected.</string>
+    <string name="invite">Invite</string>
+    <string name="invite_msg">%s wants to be your friend. Accept?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+    <string name="error_server_connection">Could not connect to server: \"%s\"</string>
+    <string name="error_server_communication">Error in server communication.</string>
+    <string name="error_ssl_init">Error with SSL initialization.</string>
+    <string name="error_untrusted_peer">Trying to connect to untrusted peer.</string>
+    <string name="title_activity_user_chat">Not used.</string>
+    <string name="action_send">Send</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="button_choose">Choose ...</string>
+    <string name="user_certificate">User certificate:</string>
+    <string name="server">Server:</string>
+    <string name="port">Port:</string>
+    <string name="server_certificate">Server certificate:</string>
+    <string name="trusted_certificate">Trusted certificate:</string>
+    <string name="button_reset">Reset</string>
+    <string name="select_user_certificate">Select user certificate (*.p12)</string>
+    <string name="select_trusted_certificate">Select trusted certificate (*.crt)</string>
+    <string name="select_server_certificate">Select server certificate (*.crt)</string>
+    <string name="password">Password</string>
+    <string name="enter_password_user_certificate">Enter password for user certificate:</string>
+    <string name="user_offline">User is now offline.</string>
+    <string name="error_user_certificate" >Could not load user certificate: \"%s\"</string>
+    <string name="error_trust_certificate" >Could not load trust certificate: \"%s\"</string>
+    <string name="error_server_certificate" >Coult not load server certificate: \"%s\"</string>
+    <string name="message_no_users">You do not have any friends. Click top right icon to add one.</string>
+    <string name="action_logout">Logout</string>
+    <string name="hello_world"></string>
+    <string name="connect">Connect</string>
+
+</resources>
